@@ -1,21 +1,21 @@
-# ⚡ Calculadora de Consumo de Energia
+#  Calculadora de Consumo de Energia
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Energia-Consumo%20Consciente-F7B500?logo=lightning&logoColor=black)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto é uma calculadora de consumo elétrico desenvolvida para estimar quanto um aparelho consome de energia por mês. A pessoa informa o nome do aparelho, sua potência em watts e o tempo médio de uso diário.
 
 O programa também apresenta uma estimativa do custo mensal, considerando uma tarifa fixa de **R$ 0,75 por kWh**.
 
-## 🛠️ Tecnologia utilizada
+##  Tecnologia utilizada
 
 - [Python 3](https://www.python.org/)
 
-## 🧮 Fórmula utilizada
+##  Fórmula utilizada
 
 O consumo mensal é calculado da seguinte forma:
 
@@ -29,7 +29,7 @@ O custo estimado é calculado por:
 custo mensal = consumo mensal × tarifa por kWh
 ```
 
-## ▶️ Como executar
+##  Como executar
 
 1. Tenha o Python 3 instalado.
 2. Clone este repositório:
@@ -50,10 +50,10 @@ custo mensal = consumo mensal × tarifa por kWh
    python3 app.py
    ```
 
-## 💡 Exemplo de uso
+##  Exemplo de uso
 
 ```text
-⚡ Calculadora de Consumo de Energia ⚡
+ Calculadora de Consumo de Energia 
 
 Nome do aparelho: Geladeira
 Potência do aparelho (W): 100
@@ -66,7 +66,7 @@ Custo estimado: R$ 33.75/mês
 (Tarifa considerada: R$ 0.75 por kWh)
 ```
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 consumo-energia/
@@ -74,10 +74,7 @@ consumo-energia/
 └── README.md
 ```
 
-## 🎓 Atividade acadêmica
+##  Atividade acadêmica
 
 Projeto desenvolvido para a **Agenda 05 — Desenvolvimento de Sistemas I**, com o objetivo de praticar algoritmos, programação em Python, Git e GitHub.
 
-## 📄 Licença
-
-Este projeto está disponível sob a [Licença MIT](LICENSE).
