@@ -3,17 +3,12 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Energia-Consumo%20Consciente-F7B500?logo=lightning&logoColor=black)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 ##  Sobre o projeto
 
-Este projeto é uma calculadora de consumo elétrico desenvolvida para estimar quanto um aparelho consome de energia por mês. A pessoa informa o nome do aparelho, sua potência em watts e o tempo médio de uso diário.
+Este projeto é uma calculadora de consumo elétrico, proposto na Agenda 05 do curso de Desenvolvimento de sistemas, desenvolvida para estimar quanto um aparelho consome de energia por mês. A pessoa informa o nome do aparelho, sua potência em watts e o tempo médio de uso diário.
 
 O programa também apresenta uma estimativa do custo mensal, considerando uma tarifa fixa de **R$ 0,75 por kWh**.
-
-##  Tecnologia utilizada
-
-- [Python 3](https://www.python.org/)
 
 ##  Fórmula utilizada
 
@@ -63,7 +58,6 @@ Tempo médio de uso diário (horas): 15
 Aparelho: Geladeira
 Consumo estimado: 45.00 kWh/mês
 Custo estimado: R$ 33.75/mês
-(Tarifa considerada: R$ 0.75 por kWh)
 ```
 
 ##  Estrutura do projeto
